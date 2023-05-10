@@ -1,0 +1,25 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "marca": "Chevrolet",
+      "modelo": "Celta",
+      "placa": "PNO-6645",
+      "foto": "https://www.autoo.com.br/fotos/2016/1/960_720/chevrolet_Celta_2015_1_1312016_414_960_720.jpg"
+    },
+    {
+      "id": 2,
+      "marca": "Chevrolet",
+      "modelo": "Celta",
+      "placa": "PNO-6645",
+      "foto": "https://www.automaistv.com.br/wp-content/uploads/2022/01/chevrolet_celta_5-door_45_edited-990x594.jpg"
+    },
+    {
+      "marca": "teste1",
+      "modelo": "teste1",
+      "placa": "teste1",
+      "foto": "teste1",
+      "id": 3
+    }
+  ]
+}
